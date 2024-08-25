@@ -1,4 +1,4 @@
-# Project Name
+# Django Tweet
 
 A brief description of what the project does or its purpose.
 
@@ -10,7 +10,7 @@ A brief description of what the project does or its purpose.
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.12
 - Django
 - Virtual environment (optional but recommended)
 
@@ -19,4 +19,4 @@ A brief description of what the project does or its purpose.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/farooq7234/django-tweeet.git
